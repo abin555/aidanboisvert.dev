@@ -1,1 +1,0 @@
-<h1>Aidan Boisvert's Homepage</h1>
