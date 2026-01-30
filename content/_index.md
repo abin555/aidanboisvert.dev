@@ -2,10 +2,6 @@
 title: "Home"
 ---
 
-# Welcome
+## Welcome
 
-This is my simple Hugo site.
-
-## Sections
-
-- [About](/about/)
+This is my homepage
